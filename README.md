@@ -31,7 +31,7 @@ This is a simple ERC-20 token contract implemented in Solidity. The contract all
 
 ## Usage
 
-1. Deploy the `Meta-Token` contract to a supported Ethereum network.
+1. Deploy the `My Token` contract to a supported Ethereum network.
 
 2. Once deployed, you can interact with the contract by calling the following functions:
 
